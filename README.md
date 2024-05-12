@@ -32,8 +32,9 @@ Developer - Final control work on the main block
             append new_element to initial_array;
 ```
 <details>
-<summary><code>Функциональная блок-схема</code></summary>
-<p>![функциональная схема](static/flowchart.png?raw=true "functional_scheme")
+<summary><code>Функциональная блок-схема</code></summary><p>
+
+![функциональная схема](static/flowchart.png?raw=true "functional_scheme")
 </details>
 
 </br></br>
