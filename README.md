@@ -9,7 +9,7 @@ Developer - Final control work on the main block
 ### Основная функция
 ```
     // Инициализация исходного массива строк;
-    initial_array = input();
+    initial_array = user_input();
     // Формирование нового массива из строк длиной до 3 символов;
     new_array = [];
     for string_element in initial_array:
@@ -31,6 +31,12 @@ Developer - Final control work on the main block
         else:
             append new_element to initial_array;
 ```
+<details>
+<summary><code>Функциональная блок-схема</code></summary>
+<p>![функциональная схема](static/flowchart.png?raw=true "functional_scheme")
+</details>
+
 </br></br>
+
 #### **Completed by**
 Evgeny Nemykin | nonwander@gmail.com | _@nonwander_
